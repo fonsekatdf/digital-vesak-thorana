@@ -103,7 +103,7 @@ body {
 
 .center-white {
     background-color: #FFFFFF;
-    box-shadow: 0 0 8px #FFFFFF, 0 0 16px rgba(255, 255, 255, 0.6);
+    box-shadow: 0 0 8px #FFFFFF, 0 0 16px rgba(255, 255, 255, 0.81);
 }
 
 .center-orange {
@@ -155,7 +155,7 @@ body {
     box-shadow: 0 0 18px rgba(0,0,0,0.4);
     overflow: visible;
     display: block;
-    border-radius: 0; /* keep full image shape */
+    border-radius: 0; 
     z-index: 60;
 }
 
